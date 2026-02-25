@@ -26,16 +26,6 @@ This project was built to practice API integration, state management, controlled
 
 ---
 
-## 📸 Screenshots
-
-### 🔹 Converter Interface
-![Converter UI](assets/converter.png)
-
-### 🔹 Live Conversion Result
-![Conversion Result](assets/result.png)
-
----
-
 ## 🧩 How It Works
 
 1. User selects base and target currency.
